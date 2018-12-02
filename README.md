@@ -13,6 +13,13 @@ Function
 ## Parametry
 |Name|Type|Direction|Mandatory|NULL|Default|Description|
 |---|---|---|---|---|---|---|
+|p_client_id|integer|in|Y|N||Id klienta, pro nějž je načítán seznam portfolií, ve kterých je obsluhován.|
+|Name|Type|Direction|Mandatory|NULL|Default|Description|
+|Name|Type|Direction|Mandatory|NULL|Default|Description|
+|Name|Type|Direction|Mandatory|NULL|Default|Description|
+|Name|Type|Direction|Mandatory|NULL|Default|Description|
+|Name|Type|Direction|Mandatory|NULL|Default|Description|
+|Name|Type|Direction|Mandatory|NULL|Default|Description|
 |Name|Type|Direction|Mandatory|NULL|Default|Description|
 
 
