@@ -1,14 +1,12 @@
 # GET_CLIENT_SERVICES
 ---
 ## Popis
-Vrátí seznam portfolií, ve kterých je daný klient obsluhován.
+vrátí seznam portfolií, ve kterých je daný klient obsluhován.
 
 ## Typ
-Function
+function
 
-|aa|aaa|aaa|
-|---|---|---|
-|bb|bb|bb|
+###### aaa
 
 ## Parametry
 |Name|Type|Direction|Mandatory|NULL|Default|Description|
