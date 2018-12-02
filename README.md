@@ -11,6 +11,10 @@ Function
 |bb|bb|bb|
 
 ## Parametry
+|Name|Type|Direction|Mandatory|NULL|Default|Description|
+|---|---|---|---|---|---|---|
+|Name|Type|Direction|Mandatory|NULL|Default|Description|
+
 
 |Name|Type|Direction|Mandatory|NULL|Defaul value|Description|
 |---|---|---|---|---|---|---|---|
