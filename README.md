@@ -6,6 +6,10 @@ Vrátí seznam portfolií, ve kterých je daný klient obsluhován.
 ## Typ
 Function
 
+|aa|aaa|aaa|
+|---|---|---|
+|bb|bb|bb|
+
 ## Parametry
 
 |Name|Type|Direction|Mandatory|NULL|Defaul value|Description|
